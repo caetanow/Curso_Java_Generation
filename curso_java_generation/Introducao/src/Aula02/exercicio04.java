@@ -23,9 +23,5 @@ public class exercicio04 {
         }else {
             System.out.println(numero + " ao quadrado é " + Math.pow(numero,2));
         }
-
-
-
-
     }
 }
